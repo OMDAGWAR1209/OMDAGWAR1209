@@ -17,37 +17,37 @@
 
 ## 👨‍💻 About Me
 
-```python
-class Om_Dagwar:
-    def __init__(self):
-        self.name = "Om Vilas Dagwar"
-        self.role = "AI Enthusiast & Python Developer"
-        self.location = "Nagpur, Maharashtra, India"
-        self.education = "BTech in Artificial Intelligence"
-        self.university = "Priyadarshini Bhagwati College of Engineering"
-        self.current_focus = ["Machine Learning", "Deep Learning", "Data Analysis"]
-        
-    def current_work(self):
-        return {
-            "position": "Python Developer Intern",
-            "company": "SkyInnovate Technologies",
-            "campus_role": "Campus Mantri @ GeeksforGeeks",
-            "interests": ["AI Research", "Predictive Modeling", "Neural Networks"]
-        }
-    
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing together!")
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
-me = Om_Dagwar()
-me.say_hi()
+### 🚀 Who Am I?
+
+I'm **Om Vilas Dagwar**, a passionate **B.Tech student** specializing in **Artificial Intelligence** at Priyadarshini Bhagwati College of Engineering, RTM Nagpur University. I'm driven by the mission to build intelligent systems that solve real-world problems and push the boundaries of what's possible with AI.
+
+### 💼 Current Role
+- 🐍 **Python Developer Intern** at **SkyInnovate Technologies**
+- 📚 **Campus Mantri** at **GeeksforGeeks** - Leading tech community initiatives
+
+### 🎯 What I'm Up To
+- 🔭 Building **Machine Learning Models** for predictive analysis
+- 🌱 Diving deep into **Neural Networks** and **Deep Learning** with TensorFlow
+- 💡 Exploring **AI Model Optimization** and **Data-Driven Solutions**
+- 📊 Working with **Statistical Data Analysis** and **Decision-Making** frameworks
+
+### 🌟 My Focus Areas
+```
+Machine Learning  ████████████████████░  95%
+Data Analysis     ███████████████████░░  90%
+Deep Learning     ██████████████████░░░  85%
+Python Development████████████████████░  95%
 ```
 
-🎓 **B.Tech Student** specializing in **Artificial Intelligence** at RTM Nagpur University  
-🔭 Currently working on **Machine Learning Models** and **Data-Driven Solutions**  
-🌱 Exploring **Deep Learning**, **TensorFlow**, and **AI Model Optimization**  
-💡 Passionate about solving **complex problems** through **Intelligent Systems**  
-🎯 **Career Goal:** AI Researcher | Data Scientist at leading tech organizations  
-⚡ **Fun Fact:** I believe AI is not just code—it's the future of human potential!
+### 💭 What Drives Me
+I believe **AI is not just code—it's the future of human potential**. My goal is to become an **AI Researcher** or **Data Scientist** at a leading tech organization, working on large-scale problems and contributing to open AI research.
+
+### ⚡ Fun Facts
+- 🧠 I love exploring how mathematics powers AI algorithms
+- 🤝 Always open to collaborative projects and research opportunities
+- 🌍 Based in Nagpur, Maharashtra, India
 
 ---
 
